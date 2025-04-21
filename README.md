@@ -31,17 +31,6 @@ This project implements a machine learning model to predict diabetes in patients
 - Diabetes Pedigree Function
 - Age
 
-## Getting Started
-1. Clone this repository
-2. Install required packages:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook converted_notebook.py
-   ```
-
 ## Usage
 The model can be used interactively through the `deploy()` function, which takes user input for various health indicators and provides:
 - Diabetes prediction (Positive/Negative)
